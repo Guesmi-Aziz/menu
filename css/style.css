@@ -123,12 +123,29 @@ img{
   width: 100%;
   margin: 0 auto;
   padding: 0 3rem;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 56c7e27 (first commt as an eng)
 }
 .flex{
   display: flex;
   align-items: center;
   column-gap: 0.6rem;
 }
+<<<<<<< HEAD
+=======
+.button1{
+  border: none;
+  outline: none;
+  color: var(--white-color);
+  padding: 1.4rem 4rem;
+  border-radius: 3rem;
+  background-color: #e87130;
+  transition: var(--tran-0-3);
+  cursor: pointer;
+}
+>>>>>>> 56c7e27 (first commt as an eng)
 .button{
   border: none;
   outline: none;
@@ -246,9 +263,16 @@ img{
 }
 
 /* nav responsive */
+<<<<<<< HEAD
 @media screen and (max-width: 768px) {
   .contact-content{
     display: none;
+=======
+/*to review the display*/
+@media screen and (max-width: 768px) {
+  .contact-content{
+    display: flex;
+>>>>>>> 56c7e27 (first commt as an eng)
   }
   .navClose-btn,
   .navOpen-btn,
@@ -605,7 +629,11 @@ img{
 
 /* swiper btn */
 .review .swiper-navBtn{
+<<<<<<< HEAD
   background-color: rgba(0, 0, 0, 0.1);
+=======
+  background-color: rgba(0, 0, 0, 0.443);
+>>>>>>> 56c7e27 (first commt as an eng)
 }
 .review .swiper-button-next{
   right: 2rem;
@@ -624,11 +652,22 @@ img{
 .newsletter .logo-text,
 .newsletter .section-description{
   color: var(--text-color);
+<<<<<<< HEAD
+=======
+  
+}
+.new{
+  background-color: rgba(0, 0, 0, 0.7);;
+>>>>>>> 56c7e27 (first commt as an eng)
 }
 .newletter-container{
   display: grid;
   justify-items: center;
   row-gap: 4rem;
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 56c7e27 (first commt as an eng)
 }
 .newsletter .logo-icon{
   font-size: 3rem;
@@ -909,4 +948,9 @@ img{
     padding: 1.4rem 2rem;
 
 }
+<<<<<<< HEAD
 }
+=======
+
+}
+>>>>>>> 56c7e27 (first commt as an eng)
